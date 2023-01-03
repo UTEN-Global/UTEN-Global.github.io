@@ -1,11 +1,12 @@
 ---
-title: "Global_UTEN"
+title: "The Urban Trees Ecophysiology Network - UTEN"
 ---
 
-UTEN
 
-![](/archive/images/Urban%20trees%20Ecophysiology%20network.png)
 
-information about the workshop can be [found here](Workshop.qmd)
+<!-- ![](/archive/images/Logo_1.png) -->
+![](/archive/images/details-street-tree-smarts.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The Urban Trees Ecophsiology Network will have its workshop kickoff meeting during March
+Information about the workshop can be [found here](Workshop.qmd)
+

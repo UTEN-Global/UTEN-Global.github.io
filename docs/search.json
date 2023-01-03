@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Global_UTEN",
+    "title": "The Urban Trees Ecophysiology Network - UTEN",
     "section": "",
-    "text": "UTEN\n\ninformation about the workshop can be found here\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The Urban Trees Ecophsiology Network will have its workshop kickoff meeting during March Information about the workshop can be found here"
   },
   {
     "objectID": "Workshop.html",
@@ -19,5 +19,26 @@
     "title": "ppppp",
     "section": "",
     "text": "the workshop will…."
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "the workshop will…. \nThis is code\n\nthis\nis\n\n\nthis\nis\nyou\n\nthis is \\(\\alpha\\)\n\\[\nx^2\n\\]\ninstal.packages(ggplot2)\nlibrary(ggplot2)"
+  },
+  {
+    "objectID": "cities.html",
+    "href": "cities.html",
+    "title": "Cities",
+    "section": "",
+    "text": "List of cities participating in the network\n\nMontreal QC. Canda (PI- Alain Paquette)\nSt. Paul MN. USA (PI- Xue Feng)\nCambridge MA. USA (PI- Yakir Preisler and…)\nHolyoke MA. USA (PI- Jessica Gersony)\nAthens GA. USA (PI- Daniel Johnson)\nGainsville FL. USA (PI- William (Bill) Hammond)\nCape Town. South Africa (PI- Robert Skelton)\nTel Aviv. Israel (PI- Yakir Preisler)\nHelsinki. Finland (PI- Kaisa Rissanen)"
+  },
+  {
+    "objectID": "docs/Workshop.html",
+    "href": "docs/Workshop.html",
+    "title": "Workshop",
+    "section": "",
+    "text": "the workshop will…. \nThis is code\n\nthis\nis\n\n\nthis\nis\nyou\n\nthis is \\(\\alpha\\)\n\\[\nx^2\n\\]\ninstal.packages(ggplot2)\nlibrary(ggplot2)"
   }
 ]

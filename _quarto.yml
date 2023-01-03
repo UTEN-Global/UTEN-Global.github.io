@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "Website_UTEN"
+  title: "Global_UTEN"
+  favicon: archive/images/Logo_1.png
   navbar:
     right:
       - href: index.qmd
         text: Home
       - about.qmd
-      - Workshop.qmd
+      - workshop.qmd
+      - cities.qmd
+     
 
 format:
   html:
+    page-layout: full
     theme: 
-      - darkly
+      - sketchy
       - custom.scss
     css: styles.css
     toc: true

@@ -1,0 +1,15 @@
+---
+title: "Cities"
+---
+
+List of cities participating in the network
+
+1. Montreal QC. Canda (PI- [Alain Paquette](https://paqlab.uqam.ca/members/alain-paquette.php?lang=en))
+1. St. Paul MN. USA (PI- [Xue Feng](https://feng.umn.edu/))
+1. Cambridge MA. USA (PI- [Yakir Preisler and...]())
+1. Holyoke MA. USA (PI- [Jessica Gersony](https://placelab.weebly.com/))
+1. Athens GA. USA (PI- [Daniel Johnson](https://www.plantbio.uga.edu/directory/people/daniel-johnson))
+1. Gainsville FL. USA (PI- [William (Bill) Hammond ](https://www.ecophyslab.com/))
+1. Cape Town. South Africa (PI- [Robert Skelton](https://robertskelton.org/))
+1. Tel Aviv. Israel (PI- [Yakir Preisler]())
+1. Helsinki. Finland (PI- [Kaisa Rissanen](https://www.ecophyslab.com/))
